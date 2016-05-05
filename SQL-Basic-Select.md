@@ -5,7 +5,7 @@ Query all columns for all American cities in CITY with populations larger than 1
 City Table:
 
 Field | Type
---|--
+-----|------
 ID | Number
 NAME | VARCHAR2(17)
 COUNTRYCODE | VARCHAR2(3)
@@ -74,7 +74,7 @@ Query a list of CITY and STATE from STATION.
 STATION table:
 
 Field | Type
---|--
+------|------
 ID | NUMBER
 CITY | VARCHAR2(21)
 STATE | VARCHAR2(2)
